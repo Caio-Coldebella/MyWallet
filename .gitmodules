@@ -1,6 +1,0 @@
-[submodule "mywallet-front"]
-	path = mywallet-front
-	url = https://github.com/Caio-Coldebella/mywallet-front.git
-[submodule "mywallet-back"]
-	path = mywallet-back
-	url = https://github.com/Caio-Coldebella/mywallet-back.git
